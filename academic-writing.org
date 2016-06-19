@@ -1,0 +1,13 @@
+Academic writing styles have some rules. This is a list of those I know, for reference.
+
+** Numerals
+
+Write out integers ten or lower, and any number used to start a sentence (or rewrite the sentence to avoid starting with a really big number that will mess with your word count). In text, numbers 1,000 or larger should use “,” separators to help the reader get an idea of the order of magnitude.
+
+** Pronouns
+
+In manuscripts, everything is about “we”, even in single author manuscripts. In grants, and theses, it’s all about “I” - you need to show that it is you that did this exciting stuff/had these ideas.
+
+** Misused words
+
+- Latter :: According to the Oxford (sorry) dictionary, latter should only be used Denoting the second or second mentioned of two people or things.
