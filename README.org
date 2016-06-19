@@ -7,3 +7,5 @@ Write out integers ten or lower, and any number used to start a sentence (or rew
 ** Pronouns
 In manuscripts, everything is about "we", even in single author manuscripts.  In grants, and theses, it's all about "I" - you need to show that it is *you* that did this exciting stuff/had these ideas.
 
+** Latter
+According to the Oxford (sorry) dictionary, latter should only be used Denoting the second or second mentioned of two people or things.
